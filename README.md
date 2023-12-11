@@ -1,4 +1,4 @@
-This is the sample boilerplate created in react js, to start an application in react js from the scratch. And it has the following basic features.
+This is the sample boilerplate created in react js, to start an application in react js from scratch and it has the following basic features.
 
    - Common Layout
    - Navigation, router
